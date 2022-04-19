@@ -7,6 +7,6 @@ public class Test2 {
         System.out.println("master-commit:第一个版本");
         System.out.println("branch-commit:提交第一次");
         System.out.println("push");
-
+        System.out.println("pull");
     }
 }
